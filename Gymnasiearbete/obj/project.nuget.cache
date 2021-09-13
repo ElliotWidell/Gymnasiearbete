@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "JizaS+8DW+pG99ypLUG6sGXLZ5+loSBuNLcAxRBLRamcS1nxnhbmuMwL+neLxNss72THDj2W/EqUvyfrAxWycw==",
+  "dgSpecHash": "daO7BKoZzGE4Kod3WjqMxkkNeN2Oprk4Lsk+y8eahsRNpQobxmlKAZdKzoDf0xpK59VIuz2TJhD5vgcZ7XR5bw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\aironas.keturka\\Desktop\\GynArbete\\Gymnasiearbete\\Gymnasiearbete\\Gymnasiearbete.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\elliot.widell\\Desktop\\gymnasieArbete\\Gymnasiearbete\\Gymnasiearbete\\Gymnasiearbete.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elliot.widell\\.nuget\\packages\\raylib-cs\\3.7.0\\raylib-cs.3.7.0.nupkg.sha512",
+    "C:\\Users\\elliot.widell\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

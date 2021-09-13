@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\aironas.keturka\\Desktop\\GynArbete\\Gymnasiearbete\\Gymnasiearbete\\Gymnasiearbete.csproj": {}
+    "C:\\Users\\elliot.widell\\Desktop\\gymnasieArbete\\Gymnasiearbete\\Gymnasiearbete\\Gymnasiearbete.csproj": {}
   },
   "projects": {
-    "c:\\Users\\aironas.keturka\\Desktop\\GynArbete\\Gymnasiearbete\\Gymnasiearbete\\Gymnasiearbete.csproj": {
+    "C:\\Users\\elliot.widell\\Desktop\\gymnasieArbete\\Gymnasiearbete\\Gymnasiearbete\\Gymnasiearbete.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\aironas.keturka\\Desktop\\GynArbete\\Gymnasiearbete\\Gymnasiearbete\\Gymnasiearbete.csproj",
+        "projectUniqueName": "C:\\Users\\elliot.widell\\Desktop\\gymnasieArbete\\Gymnasiearbete\\Gymnasiearbete\\Gymnasiearbete.csproj",
         "projectName": "Gymnasiearbete",
-        "projectPath": "c:\\Users\\aironas.keturka\\Desktop\\GynArbete\\Gymnasiearbete\\Gymnasiearbete\\Gymnasiearbete.csproj",
-        "packagesPath": "C:\\Users\\aironas.keturka\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\aironas.keturka\\Desktop\\GynArbete\\Gymnasiearbete\\Gymnasiearbete\\obj\\",
+        "projectPath": "C:\\Users\\elliot.widell\\Desktop\\gymnasieArbete\\Gymnasiearbete\\Gymnasiearbete\\Gymnasiearbete.csproj",
+        "packagesPath": "C:\\Users\\elliot.widell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elliot.widell\\Desktop\\gymnasieArbete\\Gymnasiearbete\\Gymnasiearbete\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aironas.keturka\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\elliot.widell\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -37,6 +37,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Raylib-cs": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
