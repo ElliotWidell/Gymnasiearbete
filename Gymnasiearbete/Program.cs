@@ -35,7 +35,6 @@ namespace Gymnasiearbete
 
                 }
 
-                Raylib.EndDrawing();
 
 
 
@@ -46,13 +45,19 @@ namespace Gymnasiearbete
             void gameBoxes()
             {
 
+                Raylib.ClearBackground(Color.BROWN);
 
-                Raylib.DrawRectangle(100,100,100,100, Color.BLACK);
+
+                Raylib.DrawRectangle(0,0,450,1200, Color.BLUE);
+
+                Raylib.EndDrawing();
+
 
 
 
 
             }
+            
         }
     }
 }
